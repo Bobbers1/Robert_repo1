@@ -1,4 +1,4 @@
 ## Workshop
-# FRIST LSAT
-## sidekick: DUCKIENAME
-### SoftDev 2025-2027
+# Robert Chen
+## sidekick: Bfoobies
+### SoftDev 2026-2027
